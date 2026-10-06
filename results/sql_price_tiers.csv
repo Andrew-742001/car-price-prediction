@@ -1,0 +1,4 @@
+tier,cars,avg_hp,avg_engine,avg_mpg
+Budget (<$10k),100,78.0,102.0,32.7
+Mid ($10k-20k),79,118.0,133.0,24.5
+Premium ($20k+),26,163.0,204.0,20.4

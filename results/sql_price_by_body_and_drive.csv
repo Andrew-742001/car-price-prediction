@@ -1,0 +1,14 @@
+carbody,drivewheel,cars,avg_price
+hardtop,rwd,7,24203.0
+convertible,rwd,5,23950.0
+sedan,rwd,36,21712.0
+wagon,rwd,9,16994.0
+hatchback,rwd,19,15236.0
+hatchback,4wd,2,12731.0
+sedan,4wd,3,12647.0
+convertible,fwd,1,11595.0
+wagon,fwd,12,9997.0
+sedan,fwd,57,9780.0
+wagon,4wd,4,9096.0
+hatchback,fwd,49,8396.0
+hardtop,fwd,1,8249.0

@@ -1,0 +1,11 @@
+brand,carbody,horsepower,price,brand_avg,diff
+bmw,sedan,182,41315.0,26119.0,15196.0
+buick,hardtop,184,45400.0,33647.0,11753.0
+bmw,sedan,182,36880.0,26119.0,10761.0
+nissan,hatchback,200,19699.0,10416.0,9283.0
+nissan,hatchback,160,18399.0,10416.0,7983.0
+toyota,convertible,116,17669.0,9886.0,7783.0
+mazda,sedan,72,18344.0,10653.0,7691.0
+mazda,sedan,120,18280.0,10653.0,7627.0
+nissan,hatchback,160,17199.0,10416.0,6783.0
+toyota,hatchback,161,16558.0,9886.0,6672.0

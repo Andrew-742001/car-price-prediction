@@ -1,0 +1,5 @@
+fueltype,aspiration,cars,avg_price,avg_mpg
+diesel,turbo,13,19159.0,28.3
+gas,turbo,24,14748.0,22.8
+gas,std,161,12739.0,28.2
+diesel,std,7,9671.0,40.3
